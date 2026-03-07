@@ -1,0 +1,62 @@
+[
+  {
+    "sender": "contextualist",
+    "recipient": "scout",
+    "task_id": "task-1",
+    "status": "done",
+    "payload": {
+      "topic": "Semiconductor factory opening in Japan",
+      "location": {
+        "city": "Tokyo",
+        "weather": "8.41\u00b0C, few clouds"
+      },
+      "financial_context": {
+        "currency_code": "JPY",
+        "rate": 0.00631,
+        "source": "ExchangeRate API"
+      },
+      "news_headline": "2025 Letter"
+    },
+    "timestamp": "2026-01-23T05:55:05.756240Z"
+  },
+  {
+    "sender": "scout",
+    "recipient": "publisher",
+    "task_id": "task-1",
+    "status": "done",
+    "payload": {
+      "topic": "Semiconductor factory opening in Japan",
+      "location": "Tokyo",
+      "context": {
+        "topic": "Semiconductor factory opening in Japan",
+        "location": {
+          "city": "Tokyo",
+          "weather": "8.41\u00b0C, few clouds"
+        },
+        "financial_context": {
+          "currency_code": "JPY",
+          "rate": 0.00631,
+          "source": "ExchangeRate API"
+        },
+        "news_headline": "2025 Letter"
+      },
+      "media": {
+        "query": "Semiconductor factory opening in Japan",
+        "images": [
+          {
+            "id": 5554948,
+            "url": "https://www.pexels.com/photo/production-line-of-computer-elements-5554948/",
+            "photographer": "Andrey Matveev",
+            "alt": "Detailed view of organized electronic circuit boards in a production setting.",
+            "src": {
+              "url": "https://images.pexels.com/photos/5554948/pexels-photo-5554948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+              "type": "image"
+            }
+          }
+        ],
+        "total_results": 8000
+      }
+    },
+    "timestamp": "2026-01-23T05:55:06.510083Z"
+  }
+]
