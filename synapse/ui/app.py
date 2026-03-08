@@ -58,7 +58,7 @@ def get_location_context(news_text: str) -> dict:
             response_format={"type": "json_object"}
         )
         return json.loads(response.choices[0].message.content)
-    except Exception as e:
+    except Exception:
         return {"country": "US", "capital": "Washington"}
 
 # Helper functions for UI
