@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API 
 .env
 *.env
@@ -33,3 +34,7 @@ dist/
 
 # bytecode anywhere
 **/__pycache__/
+=======
+.env
+*.env
+>>>>>>> 8aa70d185178c1578b65026020f8bc106794e3f2

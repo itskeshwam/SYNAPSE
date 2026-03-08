@@ -6,6 +6,7 @@
     "status": "done",
     "payload": {
       "topic": "Semiconductor factory opening in Japan",
+<<<<<<< HEAD
       "news_headline": "India\u2019s AI Impact Summit closes with the New Delhi Declaration and a $200 billion boost",
       "location": {
         "city": "Tokyo",
@@ -38,11 +39,26 @@
       }
     },
     "timestamp": "2026-03-08T11:46:47.366819Z"
+=======
+      "location": {
+        "city": "Tokyo",
+        "weather": "8.41\u00b0C, few clouds"
+      },
+      "financial_context": {
+        "currency_code": "JPY",
+        "rate": 0.00631,
+        "source": "ExchangeRate API"
+      },
+      "news_headline": "2025 Letter"
+    },
+    "timestamp": "2026-01-23T05:55:05.756240Z"
+>>>>>>> 8aa70d185178c1578b65026020f8bc106794e3f2
   },
   {
     "sender": "scout",
     "recipient": "publisher",
     "task_id": "task-1",
+<<<<<<< HEAD
     "status": "ready",
     "payload": {
       "context": {
@@ -57,6 +73,24 @@
           "rate": 0.00634,
           "source": "ExchangeRate API"
         }
+=======
+    "status": "done",
+    "payload": {
+      "topic": "Semiconductor factory opening in Japan",
+      "location": "Tokyo",
+      "context": {
+        "topic": "Semiconductor factory opening in Japan",
+        "location": {
+          "city": "Tokyo",
+          "weather": "8.41\u00b0C, few clouds"
+        },
+        "financial_context": {
+          "currency_code": "JPY",
+          "rate": 0.00631,
+          "source": "ExchangeRate API"
+        },
+        "news_headline": "2025 Letter"
+>>>>>>> 8aa70d185178c1578b65026020f8bc106794e3f2
       },
       "media": {
         "query": "Semiconductor factory opening in Japan",
@@ -75,6 +109,7 @@
         "total_results": 8000
       }
     },
+<<<<<<< HEAD
     "timestamp": "2026-03-08T11:46:48.885170Z"
   },
   {
@@ -250,5 +285,8 @@
       }
     },
     "timestamp": "2026-03-08T12:11:02.468547Z"
+=======
+    "timestamp": "2026-01-23T05:55:06.510083Z"
+>>>>>>> 8aa70d185178c1578b65026020f8bc106794e3f2
   }
 ]
