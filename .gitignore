@@ -1,0 +1,35 @@
+# API 
+.env
+*.env
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual environments
+venv/
+.env
+.env.*
+
+# vscode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# python build
+build/
+dist/
+*.egg-info/
+
+# cache
+.pytest_cache/
+.mypy_cache/
+
+# bytecode anywhere
+**/__pycache__/

@@ -1,0 +1,254 @@
+[
+  {
+    "sender": "contextualist",
+    "recipient": "scout",
+    "task_id": "task-1",
+    "status": "done",
+    "payload": {
+      "topic": "Semiconductor factory opening in Japan",
+      "news_headline": "India\u2019s AI Impact Summit closes with the New Delhi Declaration and a $200 billion boost",
+      "location": {
+        "city": "Tokyo",
+        "weather": "8.78\u00b0C, scattered clouds"
+      },
+      "financial_context": {
+        "currency_code": "JPY",
+        "rate": 0.00634,
+        "source": "ExchangeRate API"
+      }
+    },
+    "timestamp": "2026-03-08T11:42:18.481726Z"
+  },
+  {
+    "sender": "contextualist",
+    "recipient": "scout",
+    "task_id": "task-1",
+    "status": "done",
+    "payload": {
+      "topic": "Semiconductor factory opening in Japan",
+      "news_headline": "India\u2019s AI Impact Summit closes with the New Delhi Declaration and a $200 billion boost",
+      "location": {
+        "city": "Tokyo",
+        "weather": "8.78\u00b0C, scattered clouds"
+      },
+      "financial_context": {
+        "currency_code": "JPY",
+        "rate": 0.00634,
+        "source": "ExchangeRate API"
+      }
+    },
+    "timestamp": "2026-03-08T11:46:47.366819Z"
+  },
+  {
+    "sender": "scout",
+    "recipient": "publisher",
+    "task_id": "task-1",
+    "status": "ready",
+    "payload": {
+      "context": {
+        "topic": "Semiconductor factory opening in Japan",
+        "news_headline": "India\u2019s AI Impact Summit closes with the New Delhi Declaration and a $200 billion boost",
+        "location": {
+          "city": "Tokyo",
+          "weather": "8.78\u00b0C, scattered clouds"
+        },
+        "financial_context": {
+          "currency_code": "JPY",
+          "rate": 0.00634,
+          "source": "ExchangeRate API"
+        }
+      },
+      "media": {
+        "query": "Semiconductor factory opening in Japan",
+        "images": [
+          {
+            "id": 5554948,
+            "url": "https://www.pexels.com/photo/production-line-of-computer-elements-5554948/",
+            "photographer": "Andrey Matveev",
+            "alt": "Detailed view of organized electronic circuit boards in a production setting.",
+            "src": {
+              "url": "https://images.pexels.com/photos/5554948/pexels-photo-5554948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+              "type": "image"
+            }
+          }
+        ],
+        "total_results": 8000
+      }
+    },
+    "timestamp": "2026-03-08T11:46:48.885170Z"
+  },
+  {
+    "sender": "contextualist",
+    "recipient": "scout",
+    "task_id": "task-1",
+    "status": "done",
+    "payload": {
+      "topic": "Semiconductor factory opening in Japan",
+      "news_headline": "India\u2019s AI Impact Summit closes with the New Delhi Declaration and a $200 billion boost",
+      "location": {
+        "city": "Tokyo",
+        "weather": "8.78\u00b0C, scattered clouds"
+      },
+      "financial_context": {
+        "currency_code": "JPY",
+        "rate": 0.00634,
+        "source": "ExchangeRate API"
+      }
+    },
+    "timestamp": "2026-03-08T11:53:20.255685Z"
+  },
+  {
+    "sender": "scout",
+    "recipient": "publisher",
+    "task_id": "task-1",
+    "status": "ready",
+    "payload": {
+      "context": {
+        "topic": "Semiconductor factory opening in Japan",
+        "news_headline": "India\u2019s AI Impact Summit closes with the New Delhi Declaration and a $200 billion boost",
+        "location": {
+          "city": "Tokyo",
+          "weather": "8.78\u00b0C, scattered clouds"
+        },
+        "financial_context": {
+          "currency_code": "JPY",
+          "rate": 0.00634,
+          "source": "ExchangeRate API"
+        }
+      },
+      "media": {
+        "query": "Semiconductor factory opening in Japan",
+        "images": [
+          {
+            "id": 5554948,
+            "url": "https://www.pexels.com/photo/production-line-of-computer-elements-5554948/",
+            "photographer": "Andrey Matveev",
+            "alt": "Detailed view of organized electronic circuit boards in a production setting.",
+            "src": {
+              "url": "https://images.pexels.com/photos/5554948/pexels-photo-5554948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+              "type": "image"
+            }
+          }
+        ],
+        "total_results": 8000
+      }
+    },
+    "timestamp": "2026-03-08T11:53:21.283896Z"
+  },
+  {
+    "sender": "contextualist",
+    "recipient": "scout",
+    "task_id": "task-1",
+    "status": "done",
+    "payload": {
+      "topic": "Semiconductor factory opening in Japan",
+      "news_headline": "India\u2019s AI Impact Summit closes with the New Delhi Declaration and a $200 billion boost",
+      "location": {
+        "city": "Tokyo",
+        "weather": "8.78\u00b0C, scattered clouds"
+      },
+      "financial_context": {
+        "currency_code": "JPY",
+        "rate": 0.00634,
+        "source": "ExchangeRate API"
+      }
+    },
+    "timestamp": "2026-03-08T11:57:24.559569Z"
+  },
+  {
+    "sender": "scout",
+    "recipient": "publisher",
+    "task_id": "task-1",
+    "status": "ready",
+    "payload": {
+      "context": {
+        "topic": "Semiconductor factory opening in Japan",
+        "news_headline": "India\u2019s AI Impact Summit closes with the New Delhi Declaration and a $200 billion boost",
+        "location": {
+          "city": "Tokyo",
+          "weather": "8.78\u00b0C, scattered clouds"
+        },
+        "financial_context": {
+          "currency_code": "JPY",
+          "rate": 0.00634,
+          "source": "ExchangeRate API"
+        }
+      },
+      "media": {
+        "query": "Semiconductor factory opening in Japan",
+        "images": [
+          {
+            "id": 5554948,
+            "url": "https://www.pexels.com/photo/production-line-of-computer-elements-5554948/",
+            "photographer": "Andrey Matveev",
+            "alt": "Detailed view of organized electronic circuit boards in a production setting.",
+            "src": {
+              "url": "https://images.pexels.com/photos/5554948/pexels-photo-5554948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+              "type": "image"
+            }
+          }
+        ],
+        "total_results": 8000
+      }
+    },
+    "timestamp": "2026-03-08T11:57:25.590489Z"
+  },
+  {
+    "sender": "contextualist",
+    "recipient": "scout",
+    "task_id": "task-1",
+    "status": "done",
+    "payload": {
+      "topic": "Semiconductor factory opening in Japan",
+      "news_headline": "India\u2019s AI Impact Summit closes with the New Delhi Declaration and a $200 billion boost",
+      "location": {
+        "city": "Tokyo",
+        "weather": "8.78\u00b0C, scattered clouds"
+      },
+      "financial_context": {
+        "currency_code": "JPY",
+        "rate": 0.00634,
+        "source": "ExchangeRate API"
+      }
+    },
+    "timestamp": "2026-03-08T12:11:01.648155Z"
+  },
+  {
+    "sender": "scout",
+    "recipient": "publisher",
+    "task_id": "task-1",
+    "status": "ready",
+    "payload": {
+      "context": {
+        "topic": "Semiconductor factory opening in Japan",
+        "news_headline": "India\u2019s AI Impact Summit closes with the New Delhi Declaration and a $200 billion boost",
+        "location": {
+          "city": "Tokyo",
+          "weather": "8.78\u00b0C, scattered clouds"
+        },
+        "financial_context": {
+          "currency_code": "JPY",
+          "rate": 0.00634,
+          "source": "ExchangeRate API"
+        }
+      },
+      "media": {
+        "query": "Semiconductor factory opening in Japan",
+        "images": [
+          {
+            "id": 5554948,
+            "url": "https://www.pexels.com/photo/production-line-of-computer-elements-5554948/",
+            "photographer": "Andrey Matveev",
+            "alt": "Detailed view of organized electronic circuit boards in a production setting.",
+            "src": {
+              "url": "https://images.pexels.com/photos/5554948/pexels-photo-5554948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+              "type": "image"
+            }
+          }
+        ],
+        "total_results": 8000
+      }
+    },
+    "timestamp": "2026-03-08T12:11:02.468547Z"
+  }
+]
